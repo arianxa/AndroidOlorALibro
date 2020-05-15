@@ -1,0 +1,28 @@
+[{
+	"nombre":"Usuario1",
+	"edad":19,
+	"codigopostal":34555,
+	"correo":"admin1",
+	"contraseña":"admin1",
+    "actividades":["Els dibuixants del TBO", "Presentación del libro \"El enigma de octubre '17. ¿Por qué repensar la revolución rusa?"],
+    "puntuacion":0
+},
+{
+	"nombre":"Usuario2",
+	"edad":20,
+	"codigopostal":12222,
+	"correo":"admin2",
+	"contraseña":"admin2",
+    "actividades":["Saltar", "DIDAC ALCARAZ | Cómo decir lo que siento sin herir tus sentimientos"],
+    "puntuacion":0
+},
+{
+	"nombre":"Usuario3",
+	"edad":20,
+	"codigopostal":12222,
+	"correo":"admin3",
+	"contraseña":"admin3",
+    "actividades":["Presentación del libro \"El enigma de octubre '17. ¿Por qué repensar la revolución rusa?", "Conversacion en italiano"],
+    "puntuacion":0
+}
+]
